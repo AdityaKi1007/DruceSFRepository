@@ -12,6 +12,11 @@
         <members>*</members>
         <name>ApexPage</name>
     </types>
+	
+    <types>
+        <members>*</members>
+        <name>Queue</name>
+    </types>	
     <types>
         <members>*</members>
         <name>ApexTestSuite</name>
@@ -27,6 +32,10 @@
     <types>
         <members>*</members>
         <name>Flow</name>
+    </types>
+	<types>
+        <members>*</members>
+        <name>CustomNotificationType</name>
     </types>
     <types>
         <members>*</members>
@@ -53,6 +62,10 @@
         <name>Dashboard</name>
     </types>
     <types>
+		<members>*</members>
+		<name>Workflow</name>
+	</types>
+    <types>
         <members>*</members>
         <name>Report</name>
     </types>
@@ -63,10 +76,6 @@
     <types>
         <members>*</members>
         <name>PermissionSet</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Profile</name>
     </types>
     <types>
         <members>*</members>
